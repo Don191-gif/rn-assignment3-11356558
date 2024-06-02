@@ -19,7 +19,7 @@ This is a React Native project created using Expo. It includes navigation, vecto
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/rnassignment3-11356558.git
+    git clone https://github.com/Don191-gif/rn-assignment3-11356558.git
     cd rnassignment3-11356558
     ```
 
